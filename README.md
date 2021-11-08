@@ -16,7 +16,7 @@
    
    2. Crafting materials are provided on the website in a frame so as not to feel awkward.
 
-![](/Users/NUGI/Library/Application Support/marktext/images/2021-11-08-22-12-53-image.png)
+![](https://static.wixstatic.com/media/347dcd_30008fb4ff894b2496f459075309038c~mv2.jpg/v1/fill/w_2238,h_1286,al_c,q_90,usm_0.66_1.00_0.01/landing-page-art3-effect.webp)
 
 based by imx-integration-example
 
